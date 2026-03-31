@@ -1,5 +1,13 @@
 # Spanner IAM Graph
 
+### A joint project by
+
+## **Shimon Ben Ishay** - Cloud Solutions Architect, Application Development, Google Cloud Tel Aviv
+
+## **Moshe Youdkovich** - Customer Engineer, Data Management, Google Cloud
+
+---
+
 Real-time access graph for GCP using Cloud Spanner's native property graph support.
 
 Ingests Cloud Identity group membership changes and IAM policy bindings via Pub/Sub, writes them to Spanner, and exposes them for graph queries using GQL.

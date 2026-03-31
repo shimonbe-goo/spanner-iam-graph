@@ -1,6 +1,6 @@
 # Spanner IAM Graph
 
-**By Moshe Youdkovich** (Customer Engineer, Data Management) **and Shimon Ben Ishay** (Cloud Solutions Architect), **Google Cloud**
+**By Moshe Youdkovich** (Data Solutions Architect) **and Shimon Ben Ishay** (Cloud Solutions Architect), **Google Cloud**
 
 ---
 
